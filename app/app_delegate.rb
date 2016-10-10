@@ -10,6 +10,8 @@ class AppDelegate
     @window.rootViewController = navigationController
     @window.makeKeyAndVisible
 
+    BasicLocation.setup
+
     true
   end
 end
