@@ -3,7 +3,7 @@ GEM
   specs:
     bubble-wrap (1.9.5)
     motion-locman (0.3.0)
-    rake (11.3.0)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
