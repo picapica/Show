@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     bubble-wrap (1.9.5)
+    motion-distance (0.2.3)
     motion-locman (0.3.0)
     rake (12.3.3)
 
@@ -10,6 +11,7 @@ PLATFORMS
 
 DEPENDENCIES
   bubble-wrap
+  motion-distance
   motion-locman
   rake
 
